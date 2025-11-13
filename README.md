@@ -1,5 +1,5 @@
 
-# 🚀 LLMCommitAgent — AI-Powered Conventional Commit Generator
+# 🚀 LLMCommitAgent — Agentic AI Conventional Commit Generator
 
 LLMCommitAgent is a smart AI agent that automatically creates beautiful, accurate **Conventional Commit messages** using **OpenRouter LLMs** such as OpenAI, Claude, Grok, Gemini, DeepSeek, and more.
 
@@ -217,6 +217,7 @@ MIT License.
 ---
 
 # 💛 Thanks for using LLMCommitAgent!
+
 
 
 
