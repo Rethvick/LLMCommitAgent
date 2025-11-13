@@ -25,6 +25,14 @@ It works on:
 
 ---
 
+## 📸 Live Execution Screenshot
+
+Here is a real working screenshot of the agent generating a commit message from a complex diff:
+
+![LLMCommitAgent Demo](assets/demo_screenshot.png)
+
+---
+
 # 📦 Installation
 
 ### 1️⃣ Clone the project
@@ -209,6 +217,7 @@ MIT License.
 ---
 
 # 💛 Thanks for using LLMCommitAgent!
+
 
 
 
